@@ -7,8 +7,8 @@ Supports basic CRUD operations on top of express server
 1. Clone the repo
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
-cd the-example-app.nodejs
+git clone https://github.com/rhythm2789/natoursAPI.git
+cd natoursAPI
 ```
 
 2. Install the dependencies.
