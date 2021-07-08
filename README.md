@@ -75,12 +75,14 @@ Project is inteded to learn different packages/dependencies and bacics of node.j
 
 ## Directory Structure
 
+```
 dev-data : Some test files.
 |_ data
 |_ tours-simple.json : Main file which stores/appends tours data.
 public: Static files for future website creation
 controller: Main business logic
 routes: Routing the incoming requests
+```
 
 ## Test Cases as of now-
 
