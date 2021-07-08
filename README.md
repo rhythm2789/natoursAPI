@@ -24,7 +24,7 @@ Project is inteded to learn different packages/dependencies and bacics of node.j
    npm run start:dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) or POSTMAN app to test.
+4. Open [http://localhost:3000/overview.html](http://localhost:3000/overview.html) or POSTMAN app to test.
 
 ## APIs supported as now-
 
