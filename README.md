@@ -29,13 +29,23 @@ Project is inteded to learn different packages/dependencies and bacics of node.j
 ## APIs supported as now-
 
 1. Retrieve all tours
+
+   ```bash
    GET /api/v1/tours
+   ```
 
 2. Retrieve single tour data
+
+   ```bash
    GET api/v1/tours/<id>
+   ```
 
 3. Create a tour data: POST a single tour, updates id dynamically and sends back response with created data.
+
+   ```
    POST api/v1/tours
+   ```
+
    Dummy Payload-
 
    ```
@@ -45,10 +55,15 @@ Project is inteded to learn different packages/dependencies and bacics of node.j
    Mandatory fields: price, name
 
 4. Update a tour data: No implementation, but placeholder exists. Returns valid 200OK response.
+
+   ```
    PATCH api/v1/tours/<id>
+   ```
 
 5. Delete a tour data: No implementation, but placeholder exists. Returns valid 204 No Content response.
+   ```
    DELETE api/v1/tours/<id>
+   ```
 
 ## Note:
 
